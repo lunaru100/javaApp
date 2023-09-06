@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">firstApp</string>
+
+    <string name="text1">Hello World</string>
+    <string name="text2">Hello Wisniowa</string>
+    <string name="text3">Hej 3tc</string>
+    <string name="text4">Informatyka</string>
+    <string name="text5">Arduino</string>
+
+
+
 </resources>
