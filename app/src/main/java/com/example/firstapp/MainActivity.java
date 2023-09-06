@@ -2,6 +2,8 @@ package com.example.firstapp;
 
 import android.app.Activity;
 import android.os.Bundle;
+import android.util.Log;
+import android.view.View;
 
 import androidx.annotation.Nullable;
 
@@ -15,5 +17,8 @@ public class MainActivity extends Activity {
         }else{
 
         }
+    }
+    public void clickFirstBtn(View view){
+        Log.d("filtrowanieWisniowa","ButtonClicked");
     }
 }
